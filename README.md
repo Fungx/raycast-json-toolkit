@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="media/extension-icon.png" width="96" alt="JSON Toolkit icon">
+  <img src="media/extension-icon.svg" width="96" alt="JSON Toolkit icon">
 </p>
 
 <h1 align="center">JSON Toolkit for Raycast</h1>
