@@ -1,6 +1,8 @@
-# JSON Toolkit for Raycast
+<p align="center">
+  <img src="assets/readme/extension-icon.png" width="96" alt="JSON Toolkit icon">
+</p>
 
-![JSON Toolkit icon](assets/extension-icon.png)
+<h1 align="center">JSON Toolkit for Raycast</h1>
 
 Format JSON, clean up JSON-like logs, and escape or unescape JSON strings without leaving Raycast.
 
