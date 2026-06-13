@@ -24,6 +24,7 @@ declare namespace Preferences {
   /** Preferences accessible in the `unescape-json` command */
   export type UnescapeJson = ExtensionPreferences & {}
 }
+
 declare namespace Arguments {
   /** Arguments passed to the `format-json` command */
   export type FormatJson = {}
@@ -36,3 +37,4 @@ declare namespace Arguments {
   /** Arguments passed to the `unescape-json` command */
   export type UnescapeJson = {}
 }
+

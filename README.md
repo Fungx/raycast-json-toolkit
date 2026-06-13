@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/readme/extension-icon.png" width="96" alt="JSON Toolkit icon">
+  <img src="media/extension-icon.png" width="96" alt="JSON Toolkit icon">
 </p>
 
 <h1 align="center">JSON Toolkit for Raycast</h1>
@@ -8,25 +8,25 @@ Format JSON, clean up JSON-like logs, and escape or unescape JSON strings withou
 
 Everything runs inside Raycast. No browser formatter, terminal workflow, external editor, or network service is required after installation.
 
-![JSON Toolkit commands in Raycast](assets/readme/menu.png)
+![JSON Toolkit commands in Raycast](media/menu.png)
 
 ## See It in Action
 
 ### Format valid JSON
 
-![Format valid JSON](assets/readme/format-json.gif)
+![Format valid JSON](media/format-json.gif)
 
 Paste JSON into Raycast and get a readable, pretty-formatted result immediately, with whole-result copy actions built in.
 
 ### Best-effort formatting for logs and relaxed JSON
 
-![Best-effort formatting for logs and relaxed JSON](assets/readme/best-effort-format.gif)
+![Best-effort formatting for logs and relaxed JSON](media/best-effort-format.gif)
 
 If strict parsing fails, JSON Toolkit keeps surrounding text intact and only reformats balanced JSON-like spans conservatively.
 
 ### Unescape one JSON string layer, then format it
 
-![Unescape and format JSON](assets/readme/unescape-and-format.gif)
+![Unescape and format JSON](media/unescape-and-format.gif)
 
 Decode exactly one JSON string layer and jump straight into formatted JSON when the unescaped text is JSON.
 
